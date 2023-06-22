@@ -18,19 +18,11 @@ Follow instructions for your given `development OS` and `target OS`.
 To create a new project using the boilerplate simply run :
 
 ```
-git clone https://bitbucket.org/rebelworksco/react-native-skeleton.git
+git clone https://github.com/rendystdy/pintar-coding-test.git
 ```
 
 Assuming you have all the requirements installed, you can run the project by running:
 
 - `yarn install` to install all depedencies
 - `cd ios && pod install` to install all depedencies
-- `yarn <platform>` to run the *platform* application (remember to start a simulator or connect a device)
-
-## Reactotron
-
-Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps. for detail about reactotron you can refer this link
-
-```
- https://github.com/infinitered/reactotron
-```
+- `yarn android or ios` to run the *platform* application (remember to start a simulator or connect a device)
