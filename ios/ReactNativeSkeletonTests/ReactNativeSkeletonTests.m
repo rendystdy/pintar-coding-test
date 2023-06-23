@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface PintarCodingTestTests : XCTestCase
+@interface ReactNativeSkeletonTests : XCTestCase
 
 @end
 
-@implementation PintarCodingTestTests
+@implementation ReactNativeSkeletonTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

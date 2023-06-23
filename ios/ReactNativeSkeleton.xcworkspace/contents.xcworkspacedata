@@ -2,18 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:PintarCodingTest.xcodeproj">
+      location = "group:ReactNativeSkeleton.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:PintarCodingTest.xcodeproj">
+      location = "group:ReactNativeSkeleton.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:PintarCodeTest.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:PintarCodeTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ReactNativeSkeleton.xcodeproj">
    </FileRef>
 </Workspace>

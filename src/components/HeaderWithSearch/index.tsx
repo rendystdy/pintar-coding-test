@@ -1,6 +1,6 @@
 import { Text, View, TextInput } from 'react-native';
 import React, { useState, useCallback } from 'react';
-import Icon from 'react-native-vector-icons/FontAwesome5';
+import Icon from 'react-native-vector-icons/Ionicons';
 import _ from 'lodash';
 
 import styles from './style';
